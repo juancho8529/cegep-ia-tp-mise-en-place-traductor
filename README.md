@@ -29,3 +29,5 @@ Par défaut, les services de traduction offerts par Azure utilisent de modèles 
 3. **Création de ressource Azure Translator Service.** Ressource qui expose les fonctionnalités de traduction par IA d’Azure.
 4. **Creation de storage account.** Nécessaire pour exécuter la démo de traduction de documents.
 5. **Traduction de documents.** Démo qui prend les documents stockés dans un Blob container d’un storage account, les traduit et déposé les résultats dans un autre blob container.
+
+Regardez la [guide complete](https://cegepsaintefoy-my.sharepoint.com/:w:/g/personal/2491773_csfoy_ca/EeV4P1GREVxLo35GWDv6LQUBAA8nCRQrJHWjYlx9sk1kdQ?e=CogoK6).
